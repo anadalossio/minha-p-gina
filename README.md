@@ -1,2 +1,2 @@
-# minha-p-gina
+# minha-pagina
 coisa da escola
